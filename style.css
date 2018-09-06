@@ -41,3 +41,13 @@ body {
     height: 50px;
   }
   
+  
+
+  .btn {
+    padding: 10px 30px;
+  font-size: 18px;
+  color: #fff;
+  cursor: pointer;
+  background: #4aaaa5;
+  border: 0 none;
+  }
